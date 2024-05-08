@@ -1,2 +1,2 @@
 # CS101
-Projects for CS101 class at the University of Alabama
+Projects for CS101 at the University of Alabama
